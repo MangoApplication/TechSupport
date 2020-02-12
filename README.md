@@ -1,3 +1,3 @@
 # 技术支持
 
-请在[这里](https://github.com/MangoApplication/TechSupport/issues)提交技术支持q请求。
+请在[这里](https://github.com/MangoApplication/TechSupport/issues)提交技术支持请求。
